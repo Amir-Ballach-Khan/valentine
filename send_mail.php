@@ -24,8 +24,8 @@ try {
 
     //Content
     $mail->isHTML(true);
-    $mail->Subject = 'I Love You';
-    $mail->Body    = 'Happy Valentine Day My Love. I love you so much. You are the best thing that has ever happened to me ❤';
+    $mail->Subject = 'I Love You, Mano Jaan';
+    $mail->Body    = 'Happy Valentine Day My Love. I love you so much. You are the best thing that has ever happened to me ❤.Lots of Love to you>>>>>>>3';
 
     $mail->send();
     echo 'Message has been sent';
